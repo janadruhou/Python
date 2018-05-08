@@ -4,4 +4,4 @@ for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
         print(letter, "je samohláska")
     else:
         print(letter, "je souhláska")
-    
+    "oprava
