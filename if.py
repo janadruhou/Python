@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 lines=1
 if lines < 1000:
     print("malé")
