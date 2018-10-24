@@ -8,9 +8,10 @@ while next_iteration:
     try:
         number = int(value)
     except ValueError as e:
-        print("Invalid input")
         if value == 'done':
             next_iteration = False
+        elif:
+            print("Invalid input")
         continue
 
     if large is None:
